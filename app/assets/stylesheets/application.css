@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+.conversation {
+  border-left: 8px solid gray;
+  padding-left: 1em;
+}
+
+.reponse {
+  background-color: #ffff0024;
+}
